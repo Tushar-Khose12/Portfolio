@@ -300,26 +300,7 @@ header .navbar ul li a:hover {
 .social-icons a.instagram:hover {
   background-color: #ee00da;
 }
-/* social icons end */
-/* hero media queries starts*/
-/* @media (max-width: 450px) {
-  .home .btn {
-    margin: 4rem 0;
-  }
-  .socials {
-    margin-top: 12rem;
-  }
-  .home .image img {
-    margin-top: -12rem;
-  }
-  .home .content p {
-    font-size: 2.2rem;
-  }
-  .home .content p span {
-    font-size: 2.2rem;
-  }
-} */
-/* hero media queries ends*/
+
 /* about section starts */
 .about {
   background: rgb(255, 255, 255);
